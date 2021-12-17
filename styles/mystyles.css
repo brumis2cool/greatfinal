@@ -1,0 +1,40 @@
+/*Brock Thorkelson last edited on 12/15/21*/
+/*makes the ul in the About Me page gray*/
+ul{
+    color: #555555;
+    font-size: 15px;
+}
+/*the headings of the lists in the About Me page*/
+.bold{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold; 
+}
+/*style for the external links on each page of the website*/
+.underline{
+    font-size: 25px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+/*contact info on About Me page*/
+.important{
+    color: red;
+}
+/*format of pics on the about me page*/
+.picmiddle{
+    width: 300px;
+    border-right: solid 5px #111111;
+    border-left: solid 5px #111111;
+}
+.pictop{
+    width: 300px;
+    border-right: solid 5px #111111;
+    border-left: solid 5px #111111;
+    border-top: solid 5px #111111;
+}
+.picbottom{
+    width: 300px;
+    border-right: solid 5px #111111;
+    border-left: solid 5px #111111;
+    border-bottom: solid 5px #111111;
+}

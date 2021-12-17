@@ -1,0 +1,42 @@
+/*Brock Thorkelson last edited on 12/15/21*/
+/*first three are for the div elements*/
+.navigation{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    z-index: 2;
+    height: 100px;
+}
+.mainbody{
+    left: 5px;
+    right: 5px;
+    bottom: 30px;
+}
+.footer{
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 20px;
+    font-size: 15px;
+    color: #999999;
+    text-align: center; 
+}
+/*so the links are in the top right of the page*/
+.subheader{
+    float: right;
+    top: 10px;
+    z-index: 1;
+}
+/*different styles to the title and captions of the tableau page*/
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.captions{
+    font-size: 20px;
+    color: royalblue;
+    font-weight: bold;
+}
